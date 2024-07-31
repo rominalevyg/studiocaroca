@@ -1,0 +1,236 @@
+{
+    "en": {
+        "menu": {
+            "home": "Home",
+            "services": "Services",
+            "us": "Us",
+            "contact": "Contact"
+        },
+        "home": {
+            "description": "An identity, in addition to impacting and generating emotions, must be loaded with concepts and stories. But beyond just projecting identities, our objective is also to convey personality, creating visual identity projects that help improve communication between a business and its audience.",
+            "text": "Let's start bringing your ideas to life",
+            "button": "Our projects"
+        },
+        "services": {
+            "branding": "Branding",
+            "editorial": "Editorial",
+            "uxuiandweb": "UX/UI and Web",
+            "rrss": "Social Media",
+            "ilustrations": "Illustrations",
+            "lettering": "Lettering",
+            "button_back": "Back",
+            "see_more": "See more"
+        },
+        "services-branding": {
+            "title": "Branding",
+            "description1": "Beyond the brand, the visual identity is a fundamental part of the brand project, it is its first communication with the public.",
+            "description2": "The brand is the extension of the person behind it, the visual identity is the personality of this brand, it is the set of elements that visually represents a name, idea, company, service or product.",
+            "description3": "That is why we believe that designing only a logo would be like submitting an incomplete work, we create unique identities that represent you as a person and as a business."
+        },
+        "services-editorial": {
+            "title": "Editorial design",
+            "description1": "One of the main challenges for designers is to solve problems, and most of the problems in editorial projects are making an informative piece work, with a lot or little information.",
+            "description2": "Transforming spaces, prioritizing information, combining fonts, maintaining a visual aesthetic and facilitating reading is not an easy task.",
+            "description3": "That is why we offer this service that has been helping our clients communicate with their audience in a more direct, attractive and functional way. We are bombarded with information all the time, and knowing how to capture the public's attention amidst all the noise is essential.",
+            "covers": "Book covers",
+            "brochures": "Brochures"
+        },
+        "services-uxuiandweb": {
+            "title": "UX/UI and Web",
+            "description1": "We already know that the future is digital, but if social networks already move the internet so much, why make a website for your company?",
+            "description2": "Having a site generates more credibility for your business, raises competitiveness in the market and increases the possibility of sales. But for all of this to work, your customers' experience on your new page must be the best and most functional possible.",
+            "description3": "In our studio we have user-focused professionals who use graphic and interactive elements to completely change the level of your business, increasing customer conversions through a functional, attractive and appropriate page for your brand."
+        },
+        "services-rrss": {
+            "title": "Redes Sociales",
+            "description1": "Having a social network for your business today is like having a store on the street with a showcase. It is mostly the first contact that the public has with the brand, and we already know that, right? The first impression is always the one that remains.",
+            "description2": "That does not mean that you have to follow a pattern, or do the same thing that everyone is doing, it is necessary to be very clear about who and how the people are who consume or are going to consume your product or service, to then know how to present your brand. in this great universe.",
+            "description3": "Count on us in this research and production, it may be what is missing for your business to gain much more visibility and credibility in the market."
+        },
+        "services-ilustrations": {
+            "title": "Ilustrations",
+            "description1": "One of the elements that form the visual identity of a brand are the illustrations, which are not necessarily going to be in all projects, nor does every brand need this support, but when it does, it is necessary to understand what stroke, what style, what type. , what forms these illustrations will take, so that they converse, although separate from all the other elements of the visual identity.",
+            "description2": "That is why we analyze each project carefully and each illustration that is born is unique."
+        },
+        "services-lettering": {
+            "title": "Lettering",
+            "description1": "And in the end, what is lettering? Many believe that lettering is a talent for writing beautifully, but it goes beyond that, when one writes one does it mechanically, when one draws lettering, there is a plan, there is a style, there is a purpose in the drawing, it which requires not only a lot of skill, but also practice, and we are very proud to have professionals on our team who have them.",
+            "description2": "If your project requires this beautiful type of art to communicate with your clients, do not hesitate to contact us. You can have the phrase or word you want, printed on murals, brochures, cards, t-shirts, etc.",
+            "description3": "Let your imagination flow, we follow you."
+        },
+        "us": {
+            "title": "Our job is to transform ideas into real projects, but we don't do it alone...",
+            "description": "We understand that each person behind a venture has a unique essence, their ideas are loaded with emotions and expectations, and we take with responsibility, professionalism and empathy the fact of entering the imagination of others and being able to make it real. For this reason our studio does not work only with computers, we use our hands as the main creation tool, and our great communication skills to make our clients participate in our creative process in a positive and effective way.",
+            "button": "Request a quote"
+        },
+        "contact": {
+            "title": "Great, we launched the challenge...",
+            "name": "Name*",
+            "phone": "Phone*",
+            "mail": "E-mail*",
+            "subject": "Subject*",
+            "message": "Tell us a little about you and your business*",
+            "button": "Send"
+        },
+        "thanksyou": {
+            "title": "Thank you for contacting us!",
+            "subtitle": "We are redirecting you to the main page"
+        }
+    },
+    "es": {
+        "menu": {
+            "home": "Inicio",
+            "services": "Servicios",
+            "us": "Nosotros",
+            "contact": "Contacto"
+        },
+        "home": {
+            "description": "Una identidad además de impactar y generar emociones, debe estar cargada de conceptos e historias. Pero más allá de solamente proyectar identidades, nuestro objetivo es también darle personalidad, creándole proyectos de identidad visual que ayuden a mejorar la comunicación con su público.",
+            "text": "¿Empezamos a darle vida a tus ideas?",
+            "button": "Nuestros proyectos"
+        },
+        "services": {
+            "branding": "Branding",
+            "editorial": "Editorial",
+            "uxuiandweb": "UX/UI and Web",
+            "rrss": "Social Media",
+            "ilustrations": "Ilustrations",
+            "lettering": "Lettering",
+            "button_back": "Volver",
+            "see_more": "Ver más"
+        },
+        "services-branding": {
+            "title": "Branding",
+            "description1": "Más allá de la marca, la identidad visual es parte fundamental del proyecto de marca, es la primera comunicación de esta con el público.",
+            "description2": "La marca es la extensión de la persona que está por detrás de ella, la identidad visual es la personalidad de esta marca, es el conjunto de elementos que representa visualmente un nombre, idea, empresa, servicio o producto.",
+            "description3": "Por eso creemos que diseñar solamente un logo sería como entregar un trabajo incompleto, creamos identidades únicas que te representan como persona y como negocio."
+        },
+        "services-editorial": {
+            "title": "Diseño editorial",
+            "description1": "Uno de los principales desafíos de los diseñadores es solucionar problemas, y la mayoría de los problemas en proyectos editoriales, es hacer funcionar una pieza informativa, con mucha o poca información.",
+            "description2": "Transformar espacios, jerarquizar informaciones, combinar tipografías, mantener una estética visual y facilitar lectura, no es tarea fácil.",
+            "description3": "Por eso ofrecemos este servicio que tanto viene ayudando a nuestros clientes a comunicarse con su público de forma más directa, atractiva y funcional. Somos bombardeados de información todo el tiempo, y saber cómo captar la atención del público entre tanto ruido es fundamental.",
+            "covers": "Tapas",
+            "brochures": "Folletos"
+        },
+        "services-uxuiandweb": {
+            "title": "UX/UI y Web",
+            "description1": "Que el futuro es digital ya lo sabemos ¿pero si las redes sociales ya mueven tanto el internet, ¿por qué hacer una página web para tu empresa?",
+            "description2": "Tener un sitio genera más credibilidad a tu negocio, suscita competitividad en el mercado y aumenta la posibilidad de ventas. Pero para que todo eso funcione la experiencia de tus clientes en tu nueva página debe ser la mejor y más funcional posible.",
+            "description3": "En nuestro estudio contamos con profesionales centrados en el usuario, que utilizan elementos gráficos e interactivos para cambiar por completo el nivel de tu negocio, aumentando las conversiones de clientes a través de una página funcional, atractiva y adecuada para tu marca."
+        },
+        "services-rrss": {
+            "title": "Redes Sociales",
+            "description1": "Tener una red social para tu negocio hoy en día, es como tener un local en la calle con vitrina. Es en su mayoría el primer contacto que el público tiene con la marca, y ya lo sabemos ¿no? la primera impresión es siempre la que queda.",
+            "description2": "Eso no significa que tienes que seguir un patrón, o hacer lo mismo que todos están haciendo, es necesario tener muy claro quiénes y cómo son las personas que consumen o van a consumir tu producto o servicio, para entonces sí , saber cómo presentar tu marca en este tan grande universo.",
+            "description3": "Cuenta con nosotros en esta investigación y producción, puede que sea lo que está faltando para que tu negocio gane mucho más visibilidad y credibilidad en el mercado."
+        },
+        "services-ilustrations": {
+            "title": "Ilustraciones",
+            "description1": "Uno de los elementos que forman la identidad visual de una marca son las ilustraciones, que no necesariamente van a estar en todos los proyectos, ni toda marca necesita de este apoyo, pero cuando si, es necesario entender que trazo, qué estilo, qué tipo, qué formas van a llevar esas ilustraciones, de manera que conversen aunque que separadas con todos los demás elementos de la identidad visual.",
+            "description2": "Por eso analizamos cada proyecto minuciosamente y cada ilustración que nace es única."
+        },
+        "services-lettering": {
+            "title": "Lettering",
+            "description1": "Y al final ¿qué es eso de lettering? Muchos creen que lettering es un talento para escribir bonito, pero va más allá de eso, cuando uno escribe lo hace de manera mecánica, ya cuando se dibuja un lettering, hay un plan, hay un estilo, hay un propósito en el dibujo, lo que exige además de mucha habilidad, también práctica, y tenemos mucho orgullo de tener en nuestro equipo profesionales que las tienen.",
+            "description2": "Si tu proyecto amerita este hermoso tipo de arte para comunicarse con tus clientes, no dudes en consultarnos. Podes tener la frase o palabra que quieras, estampada en murales, folletos, tarjetas, remeras, etc.",
+            "description3": "Deja que tu imaginación fluya, nosotros te seguimos."
+        },
+        "us": {
+            "title": "Nuestro trabajo es transformar ideas en proyectos reales, pero no lo hacemos solos...",
+            "description": "Entendemos que cada persona detrás de un emprendimiento tiene una esencia única, sus ideas están cargadas de emociones y expectativas, y tomamos con responsabilidad, profesionalismo y empatía el hecho de entrar en el imaginario ajeno y poder hacerlo real. Por esta razón nuestro estudio no trabaja solamente con computadoras, usamos nuestras manos como principal herramienta de creación, y nuestra gran habilidad de comunicación para hacer con que nuestros clientes participen de nuestro proceso creativo de manera positiva y eficaz.",
+            "button": "Solicitá un presupuesto"
+        },
+        "contact": {
+            "title": "Genial, nos lanzamos al desafío...",
+            "name": "Nombre*",
+            "phone": "Teléfono*",
+            "mail": "E-mail*",
+            "subject": "Asunto*",
+            "message": "Contanos un poco sobre vos y tu emprendimiento*",
+            "button": "Enviar"
+        },
+        "thanksyou": {
+            "title": "¡Gracias por contactarte con nosotros!",
+            "subtitle": "Te estamos redirigiendo a la página principal"
+        }
+    },
+    "pt": {
+        "menu": {
+            "home": "Home",
+            "services": "Serviços",
+            "us": "Sobre",
+            "contact": "Contato"
+        },
+        "home": {
+            "description": "Uma identidade, além de impactar e gerar emoções deve estar carregada de conceitos e histórias. Nosso trabalho não se limita apenas a desenhar identidades, Caroca tem como objetivo dar personalidade a elas, criando projetos de identidade visual que ajudam a melhorar a comunicação com seu público.",
+            "text": "Vamos dar vida às suas ideias?",
+            "button": "Nossos projetos"
+        },
+        "services": {
+            "branding": "Projetos de marcas",
+            "editorial": "Desenho editorial",
+            "uxuiandweb": "UX/UI e Web",
+            "rrss": "Redes Sociais",
+            "ilustrations": "Ilustrações",
+            "lettering": "Lettering",
+            "button_back": "Voltar",
+            "see_more": "Ver mais"
+        },
+        "services-branding": {
+            "title": "Branding",
+            "description1": "Além do logo, a identidade visual é parte fundamental do projeto de marca, é a sua primeira comunicação com o público.",
+            "description2": "A marca é a extensão de quem está por trás dela, a identidade visual é a personalidade dessa marca, é o conjunto de elementos que representa visualmente um nome, ideia, empresa, serviço ou produto.",
+            "description3": "É por isso que acreditamos que desenhar somente um logotipo seria como entregar um trabalho incompleto; criamos identidades únicas que representam você como pessoa e como negócio."
+        },
+        "services-editorial": {
+            "title": "Desenho editorial",
+            "description1": "O maior desafio de um designer é solucionar problemas, e entre tantas barreiras a serem quebradas  estão nos projetos editoriais onde sempre existe a necessidade de fazer funcionar uma peça informativa, seja ela com muita ou pouca informação.",
+            "description2": "Transformar espaços, hierarquizar conteúdo, combinar tipografias, manter uma estética visual e facilitar a leitura não é uma tarefa fácil.",
+            "description3": "É por isso que oferecemos esse serviço que tanto ajuda nossos clientes a se comunicarem com seu público de forma mais direta, atrativa e funcional. Somos bombardeados de informações o tempo todo e saber captar a atenção do público em meio a todo esse barulho é fundamental.",
+            "covers": "Capas",
+            "brochures": "Flyers"
+        },
+        "services-uxuiandweb": {
+            "title": "UX/UI e Web",
+            "description1": "Que o futuro é digital isso já sabemos, mas se as redes sociais já movimentam tanto a Internet, por que fazer um site para sua empresa?",
+            "description2": "Ter um site gera mais credibilidade para o seu negócio, aumenta a competitividade no mercado e gera mais possibilidade de vendas. Mas para que tudo isso funcione, a experiência dos seus clientes ao entrar na sua nova web deve ser a melhor e mais funcional possível.",
+            "description3": "Em nosso estúdio contamos com profissionais centrados no usuário que utilizam elementos gráficos e interativos para mudar completamente o patamar do seu negócio, aumentando a conversão de clientes através de uma página funcional, esteticamente linda e adequada à sua marca."
+        },
+        "services-rrss": {
+            "title": "Redes Sociais",
+            "description1": "Ter uma rede social pra sua empresa hoje em dia é como ter uma loja na rua com vitrine. É geralmente o primeiro contato que o público tem com a sua marca, e já sabe, né? A primeira impressão é sempre a que fica.",
+            "description2": "Isso não quer dizer que você tenha que seguir um padrão, ou fazer a mesma coisa que todo mundo está fazendo, é preciso ter bem claro quem e como são as pessoas que consomem, ou vão consumir seu produto ou serviço, pra entender como apresentar sua marca neste grande universo que são as redes.",
+            "description3": "Caroca conta com todas as ferramentas necessárias para te ajudar nessa investigação e produção, pode ser justo o que anda faltando pra sua marca ganhar muito mais visibilidade e credibilidade no mercado."
+        },
+        "services-ilustrations": {
+            "title": "Ilustrações",
+            "description1": "Um dos elementos que formam a identidade visual de uma marca são as ilustrações, que não necessariamente vão estar em todos os projetos, nem toda marca precisa desse suporte, mas quando precisa, é necessário entender que traço, estilo, ou formas essas ilustrações teriam, para que possam ainda que separadas de todos os demais elementos da identidade visual, conviver visualmente bem.",
+            "description2": "É por isso que analisamos cuidadosamente cada projeto e cada ilustração que nasce é única."
+        },
+        "services-lettering": {
+            "title": "Lettering",
+            "description1": "Mas afinal, o que é isso de lettering? Muitos acreditam que o lettering é um talento nato que alguém possui para escrever lindamente, mas vai muito além disso. Quando se escreve faz-se mecanicamente, quando se desenha um lettering, existe um plano, um estilo, um propósito no desenho, o que exige muita habilidade, além de prática, e temos muito orgulho de ter profissionais em nossa equipe que os possui.",
+            "description2": "Se o seu projeto necessita desse tipo de arte para se comunicar com os seus clientes, não hesite em nos contactar. Você pode ter a frase ou palavra que desejar, estampada em murais, folhetos, cartões, camisetas, etc.",
+            "description3": "Deixa a sua imaginação fluir, a gente acompanha você."
+        },
+        "us": {
+            "title": "Nosso trabalho é transformar ideas em projetos reais, mas não fazemos isso sozinhos...",
+            "description": "Entendemos que cada pessoa por trás de um empreendimento tem uma essência única, suas ideias são carregadas de emoções e expectativas, e assumimos com responsabilidade, profissionalismo e empatia o fato de entrar no imaginário alheio e poder torná-lo real. Por esta razão o nosso estúdio não trabalha apenas com computadores, utilizamos as nossas mãos como principal ferramenta de criação, e a nossa grande capacidade de comunicação para fazer com que os nossos clientes participem no nosso processo criativo de forma positiva e eficaz.",
+            "button": "Solicite um orçamento"
+        },
+        "contact": {
+            "title": "Genial, vamos a começar esse desafio...",
+            "name": "Nome*",
+            "phone": "Telefone*",
+            "mail": "E-mail*",
+            "subject": "Assunto*",
+            "message": "Conta-nos um pouco sobre você e seu emprendimento*",
+            "button": "Enviar"
+        },
+        "thanksyou": {
+            "title": "Obrigado por nos contatar!",
+            "subtitle": "Estamos redirecionando você para a página principal"
+        }
+    }
+}
